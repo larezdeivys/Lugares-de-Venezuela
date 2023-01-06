@@ -1,0 +1,67 @@
+@media screen and (min-width: 400px){
+	.item img{
+		width: 10rem;
+		height: 10rem;
+	}
+}
+@media screen and (min-width: 700px){
+	.item img{
+		width: 12rem;
+		height: 12rem;
+	}
+}
+@media screen and (min-width: 1000px){
+	.item img{
+		width: 15rem;
+		height: 15rem;
+	}
+}
+@media screen and (min-width: 1300px){
+	.menu_ul li a{
+		font-size: 1.2rem;
+	}
+	.nav_h1{
+		font-size: 1.8rem;
+	}
+	.nav_h2{
+		height: 1.2rem;
+	}
+	.nav_h2 h2{
+		font-size: 1.1rem;
+	}
+	.h1{
+		font-size: 5rem;
+	}
+	.p{
+		font-size: 1.5rem;
+	}
+	.item h2{
+		font-size: 2rem;
+	}
+	.item p{
+		font-size: 1.3rem;
+		color: #fff;
+		text-align: justify;
+	}
+	footer .h1{
+		font-size: 1.5rem;
+	}
+	.mapa{
+		height: 35rem;
+	}
+	.divMapa{
+		height: 30rem;
+	}
+}
+@media screen and (min-width: 2000px){
+	.item img{
+		width: 25rem;
+		height: 25rem;
+	}
+	.mapa{
+		height: 50rem;
+	}
+	.divMapa{
+		height: 45rem;
+	}	
+}
